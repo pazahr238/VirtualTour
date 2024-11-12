@@ -1,4 +1,4 @@
-// Look Ma! no JS!!!
+// Look !!!!!  JS!!!
 // Pure CSS Accordion with images and color filters
 $('.case').each(function() {
   var link = $(this).html();
